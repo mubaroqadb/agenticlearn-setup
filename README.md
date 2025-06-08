@@ -100,14 +100,7 @@ Untuk deploy ke Railway, set environment variables di Railway dashboard:
 
 ## 📊 Demo Data
 
-Demo users yang akan dibuat:
-
-| Role | Email | Password |
-|------|-------|----------|
-| Student | `student1@agenticlearn.id` | `password123` |
-| Educator | `educator@agenticlearn.id` | `password123` |
-| Admin | `admin@agenticlearn.id` | `password123` |
-
+Demo users akan dibuat dengan role student, educator, dan admin untuk testing purposes.
 ## 🔒 Security Best Practices
 
 - ✅ Use strong passwords
